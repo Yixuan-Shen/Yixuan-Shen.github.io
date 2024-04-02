@@ -10,6 +10,8 @@ export default function Home() {
       <link rel="icon" href="/favicon.ico" />
       <main className={styles.main}>
         <h2 className="text-display-sm">About Me</h2>
+        <br />
+        <p>Still under development, please come back later!</p>
         <Link href="/">
           <div className="cursor-pointer text-xl text-teal-200 flex gap-4 items-center self-start">
             Back to Main

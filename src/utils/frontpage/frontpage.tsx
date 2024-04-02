@@ -61,6 +61,8 @@ const Frontpage = () => {
             })}
           </ul>
         </section>
+        <br />
+        <p>Still under development, please come back later!</p>
       </div>
     </>
   );
