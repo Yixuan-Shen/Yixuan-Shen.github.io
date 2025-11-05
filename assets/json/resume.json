@@ -65,16 +65,7 @@
       "name": "Technologies and Tools",
       "level": "Proficient",
       "icon": "fa-solid fa-tools",
-      "keywords": [
-        "Git",
-        "Docker",
-        "Node.js",
-        "Linux (Arch, Debian, Ubuntu)",
-        "LaTeX",
-        "GDB",
-        "Wireshark",
-        "AWS"
-      ]
+      "keywords": ["Git", "Docker", "Node.js", "Linux (Arch, Debian, Ubuntu)", "LaTeX", "GDB", "Wireshark", "AWS"]
     }
   ],
   "languages": [
