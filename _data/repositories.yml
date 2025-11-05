@@ -1,11 +1,11 @@
 github_users:
   - torvalds
-  - alshedivat
+  - Yixuan-Shen
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - Yixuan-Shen/Yixuan-Shen.github.io
   - jekyll/jekyll
   - twbs/bootstrap
   - jquery/jquery
