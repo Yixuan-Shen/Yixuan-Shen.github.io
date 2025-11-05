@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Yixuan Shen, incoming Ph.D. Student, <a href='https://drexel.edu/cci/academics/computer-science-department/'>Department of Computer Science</a>, <a href='https://drexel.edu//'>Drexel University</a>. 
+subtitle: Yixuan Shen, incoming Ph.D. Student, <a href='https://drexel.edu/cci/academics/computer-science-department/'>Department of Computer Science</a>, <a href='https://drexel.edu//'>Drexel University</a>.
 
 profile:
   align: right
