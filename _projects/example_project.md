@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: Comprehensive Project Example
 description: a complete showcase of all project features including images, citations, comments, and various layouts
@@ -62,7 +62,12 @@ Make your photos 1/3, 2/3, or full width using Bootstrap's grid system.
 
 ## Text and Citations
 
-You can put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+You can put regular text between your rows of images, even citations.
+
+```
+You can put regular text between your rows of images, even citations\{\% \cite einstein1950meaning \%\}.
+```
+
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
@@ -185,4 +190,3 @@ Control the sorting order of projects using the `importance` field:
 - `2`, `3`, `4` = Lower priorities
 
 This comprehensive example showcases all features available in the project template. Use it as a reference when creating your own project pages!
--->
