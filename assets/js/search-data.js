@@ -386,7 +386,12 @@ ninja.data = [{
             },},{id: "news-i-have-received-an-offer-to-pursue-a-phd-in-computer-science-at-drexel-university-starting-in-winter-2025-i-am-excited-about-this-new-chapter-in-my-academic-journey-and-look-forward-to-the-opportunities-and-challenges-ahead",
           title: 'I have received an offer to pursue a PhD in Computer Science at...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-comprehensive-project-example",
+          title: 'Comprehensive Project Example',
+          description: "a complete showcase of all project features including images, citations, comments, and various layouts",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/example_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
